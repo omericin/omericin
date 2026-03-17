@@ -1,43 +1,37 @@
-<h1 align="center">Ömer İçin | Software Engineer</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-%20online-0F0?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/mode-%20stealth-F0F?style=flat-square" alt="Mode" />
+  <img src="https://img.shields.io/badge/location-%20digital_void-0FF?style=flat-square" alt="Location" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=0FF&center=true&vCenter=true&width=800&lines=%3E+%C3%96mer+%C4%B0%C3%A7in+%7C+Code+Architect;%3E+Synthesizing+Digital+Realities;%3E+Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
+</p>
+
+## 🌃 Core Grid Access (Tech Stack)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TS_SYSTEM-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000&color=0FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REACT_MATRIX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=0FF" alt="React Native" />
+  <img src="https://img.shields.io/badge/NEST_CORE-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000&color=F0F" alt="NestJS" />
+  <img src="https://img.shields.io/badge/NODE_RUNTIME-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000&color=F0F" alt="Node.js" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/UNREAL_ENGINE_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=000&color=FF0" alt="Unreal Engine 5" />
+  <img src="https://img.shields.io/badge/CPP_SYSTEM-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000&color=FF0" alt="C++" />
+  <img src="https://img.shields.io/badge/NEOVIM_IF-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=000&color=A0A" alt="Neovim" />
+  <img src="https://img.shields.io/badge/MACOS_OS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=A0A" alt="MacOS" />
 </p>
 
 ---
 
-### 🛠️ Core Tech Stack
+## 🛰️ Deployed Artifacts (Projects)
 
-| Type | Technologies |
-| :--- | :--- |
-| **JS/TS Ecosystem** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Backend Frameworks**| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| **Low-Level / Game** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white) |
-
----
-
-### 🏗️ Live Projects
-
-* **[`@omericin/todo-cli`](https://www.npmjs.com/package/@omericin/todo-cli)**: A high-performance, minimalist terminal-based todo application. (Maintained)
-
----
-
-### 📊 Raw Commit Data
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omericin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ömer's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omericin&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Contacts
-
-* [LinkedIn](https://www.linkedin.com/in/omericin)
-* [Email](mailto:omericin403@gmail.com)
-
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omericin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+```bash
+$ npm install -g @omericin/todo-cli
+# Status: MAINTAINED
+# Type: MINIMALIST_TERMINAL_INTERFACE
