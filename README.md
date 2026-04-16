@@ -5,24 +5,6 @@
 **senior software development specialist** · [@eteration](https://eteration.com)  
 *building mobile & full‑stack products since 2020*
 
----
-
-```console
-$ whoami
-ömer için — senior software development specialist @ eteration
-
-$ now
-building the crypto operations dashboard for misyon bank
-
-$ history | tail -3
-garanti bbva kripto    turkey's first bank-integrated crypto app
-kkb findeks mobile     re-architected with react native
-fiyuu ata express      full-stack delivery & order management
-
-$ ls ~/offscreen
-3-cushion-billiards  chess  blues
-```
-
 </div>
 
 ---
