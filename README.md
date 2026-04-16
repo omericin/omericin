@@ -7,15 +7,20 @@
 
 ---
 
-```ts
-const omer = {
-  role:      "senior software development specialist",
-  currently: "misyon bank · crypto dashboard",
-  shipped:   ["garanti bbva kripto", "kkb findeks", "fiyuu ata express"],
-  stack:     ["react native", "react", "next.js", "spring boot", "nestjs"],
-  tools:     ["aws", "docker", "kubernetes", "redis"],
-  offscreen: ["3‑cushion billiards", "chess", "blues"],
-};
+```console
+$ whoami
+ömer için — senior software development specialist @ eteration
+
+$ now
+building the crypto operations dashboard for misyon bank
+
+$ history | tail -3
+garanti bbva kripto    turkey's first bank-integrated crypto app
+kkb findeks mobile     re-architected with react native
+fiyuu ata express      full-stack delivery & order management
+
+$ ls ~/offscreen
+3-cushion-billiards  chess  blues
 ```
 
 </div>
